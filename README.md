@@ -23,7 +23,7 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 
 ## Preview
 
-![sistok](https://github.com/f5-nascimento/Sistok/assets/28812188/0eeb7054-37d7-40bd-abb3-002fbfeb3d88)
+![git](https://github.com/f5-nascimento/Clone-GitHub/assets/28812188/5f2db55b-220d-4888-82f8-415332ca96bc)
 
 
 ## Deploy
