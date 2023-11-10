@@ -25,7 +25,6 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 
 ![git](https://github.com/f5-nascimento/Clone-GitHub/assets/28812188/5f2db55b-220d-4888-82f8-415332ca96bc)
 
-
 ## Deploy
 
 O projeto está disponível em [Clone-GitHub no Pages](https://f5-nascimento.github.io/Clone-GitHub/) para visualização.
